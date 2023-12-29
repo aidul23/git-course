@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-print("Hello World!")
-=======
 print("Hello world!")
->>>>>>> new_remote/master
+print("Hello darkness my old friend")
+print("I've come to talk with you again")
